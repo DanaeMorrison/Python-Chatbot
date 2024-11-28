@@ -1,4 +1,4 @@
-**Chatbot**
+# Chatbot
 
 This program allows a user to interact with it as though having a conversation. It is deterministic- if a user enters the same input per use of the program, the program will give the same output.
 The user's input is largely constrained to specific responses that the program will force the user to respond with in order to continue the conversation. 
